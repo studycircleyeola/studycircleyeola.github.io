@@ -1,0 +1,10 @@
+video {
+    width: 100%;
+    height: auto;
+}.video {
+    video {
+    width: 100%;
+    height: auto;
+}
+
+}
